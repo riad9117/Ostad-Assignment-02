@@ -1,4 +1,3 @@
-// * * Without Arrow Function
 // * 1) Write a function named ‘calculateSum’ that takes two arguments and returns their sum.
 function calculateSum(num1, num2) {
   return num1 + num2;
